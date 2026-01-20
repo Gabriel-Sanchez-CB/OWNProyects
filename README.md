@@ -23,6 +23,27 @@ This space is dedicated to documenting practical experiments, security architect
 
 ---
 
+## 📂 Navegación
+- [Proyectos](#proyectos)
+- [Certificaciones](#certificaciones)
+- [Contacto](#contacto)
+
+---
+
+## Proyectos
+- [Proyecto 1](link)
+- [Proyecto 2](link)
+
+---
+
+## Certificaciones
+- AWS
+- Security+
+
+---
+
+## Contacto
+[LinkedIn](link) | [GitHub](link)
 
 
 
