@@ -15,20 +15,13 @@ Welcome to my GitHub. This is where I share cybersecurity projects and hands-on 
 
 ### 👋 About Me
 
-I’m a Cybersecurity Specialist focused on threat detection, incident response, and building security environments.  
-I design SOC labs, cloud security infrastructures, and monitoring systems to replicate real enterprise security operations.  
-I enjoy learning, teaching, and sharing cybersecurity knowledge through hands-on projects.
+Hello! I’m Gabriel.
+
+I approach cybersecurity as a continuous challenge of strategy and problem-solving. I enjoy designing controlled environments where security threats can be tested, analyzed, and transformed into actionable defensive knowledge.
+
+This space is dedicated to documenting practical experiments, security architectures, and investigative techniques that reflect how modern security operations work in real environments.
 
 ---
-
-### 🎥 Featured Videos
-
-Here I share some of my cybersecurity content, where I explain labs, security concepts, and hands-on demonstrations.
-
-- [SOC Lab in Azure – Full Walkthrough](YOUR_VIDEO_LINK_1)
-- [Threat Hunting & Log Analysis Demo](YOUR_VIDEO_LINK_2)
-- [Active Directory & Domain Setup Lab](YOUR_VIDEO_LINK_3)
-
 
 
 
