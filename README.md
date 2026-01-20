@@ -23,8 +23,8 @@ This space is dedicated to documenting practical experiments, security architect
 
 ---
 
-## 📂 Navegación
-- [Projects](https://github.com/Gabriel-Sanchez-CB/Cloud-SOC-HoneyPot-Lab-.git)
+## 📂 Projects
+- [HoneyPot-lab with Azure Sentinel](https://github.com/Gabriel-Sanchez-CB/Cloud-SOC-HoneyPot-Lab-.git)
 - [Certificaciones](#certificaciones)
 - [Contacto](#contacto)
 
