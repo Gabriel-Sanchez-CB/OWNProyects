@@ -25,7 +25,7 @@ This space is dedicated to documenting practical experiments, security architect
 
 ## 📂 Projects
 - [HoneyPot-lab with Azure Sentinel](https://github.com/Gabriel-Sanchez-CB/Cloud-SOC-HoneyPot-Lab-.git)
-- [Certificaciones](#certificaciones)
+- [How to Configurate Domain Controller (Active Directory)](#certificaciones)
 - [Contacto](#contacto)
 
 ---
