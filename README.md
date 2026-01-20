@@ -24,7 +24,7 @@ This space is dedicated to documenting practical experiments, security architect
 ---
 
 ## 📂 Navegación
-- [Proyectos](#proyectos)
+- [Projects](#proyectos)
 - [Certificaciones](#certificaciones)
 - [Contacto](#contacto)
 
