@@ -28,6 +28,7 @@ This space is dedicated to documenting practical experiments, security architect
 - [Active Directory Domain Controller](https://github.com/Gabriel-Sanchez-CB/Active_Directory.git)
 - [Azure Virtual Desktop (AVD)](https://github.com/Gabriel-Sanchez-CB/Azure_Virtual_Desktop.git)
 - [Azure Disaster Recovery](https://github.com/Gabriel-Sanchez-CB/Business-Continuity-and-Disaster-Recovery-in-Azure-ASR-.git)
+- [Microsoft Veam Backup](https://github.com/Gabriel-Sanchez-CB/Business-Continuity-and-Disaster-Recovery-in-Azure-ASR-.git)
 
 ---
 
