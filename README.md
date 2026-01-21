@@ -26,7 +26,7 @@ This space is dedicated to documenting practical experiments, security architect
 ## ☁️Cloud Security Projects
 - [HoneyPot-lab with Azure Sentinel](https://github.com/Gabriel-Sanchez-CB/Cloud-SOC-HoneyPot-Lab-.git)
 - [Active Directory Domain Controller](https://github.com/Gabriel-Sanchez-CB/Active_Directory.git)
-- [Azure Virtual Desktop](#contacto)
+- [Azure Virtual Desktop (AVD)](#contacto)
 
 ---
 
