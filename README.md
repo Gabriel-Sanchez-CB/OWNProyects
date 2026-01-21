@@ -23,7 +23,7 @@ This space is dedicated to documenting practical experiments, security architect
 
 ---
 
-## 📂 Projects
+## 📂 Projects on Cloud 
 - [HoneyPot-lab with Azure Sentinel](https://github.com/Gabriel-Sanchez-CB/Cloud-SOC-HoneyPot-Lab-.git)
 - [Active Directory Domain Controller](https://github.com/Gabriel-Sanchez-CB/Active_Directory.git)
 - [Contacto](#contacto)
