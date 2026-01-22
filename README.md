@@ -32,15 +32,15 @@ This space is dedicated to documenting practical experiments, security architect
 
 ---
 
-## 📜CERTIFICATIONS
-- [DSDSD](https://github.com/Gabriel-Sanchez-CB/CERTIFICATIONS.git)
-- [Proyecto 2](link)
+## 📜CERTIFICATES
+- [Click Here](https://github.com/Gabriel-Sanchez-CB/CERTIFICATIONS.git)
+- 
 
 ---
 
 ## Contacto
-[LinkedIn](link) | [GitHub](link)
+[LinkedIn](www.linkedin.com/in/gabriel-sanchez-b0476422b) | [GitHub](link)
 
 
-https://github.com/Gabriel-Sanchez-CB/Business-Continuity-and-Disaster-Recovery-in-Azure-ASR-.git
+
 
