@@ -32,15 +32,9 @@ This space is dedicated to documenting practical experiments, security architect
 
 ---
 
-## Proyectos
-- [Proyecto 1](link)
+## CERTIFICATIONS
+- [DSDSD](https://github.com/Gabriel-Sanchez-CB/CERTIFICATIONS.git)
 - [Proyecto 2](link)
-
----
-
-## Certificaciones
-- AWS
-- Security+
 
 ---
 
