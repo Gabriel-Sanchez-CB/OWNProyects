@@ -34,7 +34,7 @@ This space is dedicated to documenting practical experiments, security architect
 
 ## 📜CERTIFICATES
 - [Click Here](https://github.com/Gabriel-Sanchez-CB/CERTIFICATIONS.git)
-- 
+  
 
 ---
 
