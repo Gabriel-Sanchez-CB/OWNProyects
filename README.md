@@ -39,7 +39,7 @@ This space is dedicated to documenting practical experiments, security architect
 ---
 
 ## 📗 Contacts
-- [🔗Linkedin](https//www.linkedin.com/in/gabriel-sanchez-b0476422b)
+- [🔗Linkedin](https://www.linkedin.com/in/gabriel-sanchez-b0476422b)
 - [📧Outlook/Hotmail](Tailer94@hotmail.com)
 - [📺Youtube](https://www.youtube.com/@gabrielsanchez8268)
 
