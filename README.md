@@ -8,9 +8,7 @@ Threat Detection • SOC Labs • Cloud Security • Incident Response • Gover
 </h3>
 
 <p align="center">
-## Welcome to my GitHub. 
-  
-This is where I share cybersecurity projects and hands-on labs built to simulate real-world enterprise and SOC environments. My goal is to learn, build, and share knowledge through practical security experience.
+Welcome to my GitHub.This is where I share cybersecurity projects and hands-on labs built to simulate real-world enterprise and SOC environments. My goal is to learn, build, and share knowledge through practical security experience.
 </p>
 
 ---
