@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Threat Detection • SOC Labs • Cloud Security • Incident Response • Risk Management • Governance, Security & Risk • Security Incident and Event Management (SIEM)
+Threat Detection • SOC Labs • Cloud Security • Incident Response • Governance, Security & Risk • 
 </h3>
 
 <p align="center">
